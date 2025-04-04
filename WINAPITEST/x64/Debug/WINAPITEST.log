@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\dovsy\Documents\С++_Projects\WINAPITEST\WINAPITEST\Source.cpp(67,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dovsy\Documents\С++_Projects\WINAPITEST\WINAPITEST\Source.cpp(76,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dovsy\Documents\С++_Projects\WINAPITEST\WINAPITEST\Source.cpp(96,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dovsy\Documents\С++_Projects\WINAPITEST\WINAPITEST\Source.cpp(169,61): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\dovsy\Documents\С++_Projects\WINAPITEST\WINAPITEST\Source.cpp(220,72): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\dovsy\Documents\С++_Projects\WINAPITEST\WINAPITEST\Source.cpp(400,9): warning C4101: 'c_sText': unreferenced local variable
+C:\Users\dovsy\Documents\С++_Projects\WINAPITEST\WINAPITEST\Source.cpp(366,9): warning C4101: 'c_szText': unreferenced local variable
+C:\Users\dovsy\Documents\С++_Projects\WINAPITEST\WINAPITEST\Source.cpp(192): warning C4715: 'mainchecks': not all control paths return a value
+  WINAPITEST.vcxproj -> C:\Users\dovsy\Documents\С++_Projects\WINAPITEST\x64\Debug\WINAPITEST.exe

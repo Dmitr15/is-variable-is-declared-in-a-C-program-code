@@ -1,0 +1,2 @@
+C:\4sem3labkinpo\semestr4\x64\Debug\code01.c
+C:\4sem3labkinpo\semestr4\x64\Debug\var1.txt
